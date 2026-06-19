@@ -57,7 +57,7 @@ The project uses a simulated business dataset containing:
 
 ---
 
-Dashboard : https://app.powerbi.com/groups/bd273dd5-bc4a-4294-84f8-c2aaabbc2b19/reports/f89b2e74-b0d8-4cbb-8bed-eb5c40277805/9fe6f94d5a6b41a29378?experience=power-bi
+Dashboard : [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTBjOTAyY2MtYzE1NS00Yzk5LTk3ODMtNDk5ZmFmYjcyMjU1IiwidCI6IjJkYzZkZDEwLTVhZGQtNDNhOC1iODNjLTJlYWJjMWFjYWQzZiJ9)
 
 ## 🎯 Business Objective
 
