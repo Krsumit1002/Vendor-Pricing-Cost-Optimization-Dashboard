@@ -57,6 +57,8 @@ The project uses a simulated business dataset containing:
 
 ---
 
+Dashboard : https://app.powerbi.com/groups/bd273dd5-bc4a-4294-84f8-c2aaabbc2b19/reports/f89b2e74-b0d8-4cbb-8bed-eb5c40277805/9fe6f94d5a6b41a29378?experience=power-bi
+
 ## 🎯 Business Objective
 
 To provide procurement and vendor management insights through interactive visualizations and KPI-driven analytics for better cost optimization and decision-making.
